@@ -1,6 +1,6 @@
 # CRE Comp Intake Normalizer
 
-Turn messy broker PDFs and email blasts into clean, structured rows for your comp database — in seconds.
+Turn messy broker PDFs and email blasts into clean, structured rows for your comp database.
 
 Upload an Offering Memorandum, and the app automatically pulls out the address, unit count, asking price, NOI, cap rate, expenses, broker info, and ~60 other fields. Review the results in an editable table, then export to Excel or CSV.
 
@@ -11,7 +11,6 @@ Upload an Offering Memorandum, and the app automatically pulls out the address, 
 You need three things installed on your computer. Each one is free.
 
 ### 1. Python
-Python is the programming language this app runs on.
 
 - Go to **python.org/downloads**
 - Click the big yellow "Download Python" button
